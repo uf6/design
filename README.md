@@ -6,7 +6,7 @@ Uranium Hexafluoride - Used for enrichment
 
 # Problem
 
-Too many graphs, too many frameworks, too many data structures, too many good intentions, not enough concrete technical interoperability.
+Too many graphs, too many [frameworks](https://docs.google.com/a/iilab.org/spreadsheet/ccc?key=0AplklDf0nYxWdFhmTWZUc0o0SzAzMkRuMTZCUVBVeHc&usp=drive_web#gid=0), too many data structures, too many good intentions, not enough concrete technical interoperability.
 
 Developers need reusable components, data structures and practical advice on the way to Linked Open Data without getting lost in the complexity of it. (i.e. Linked Data for the shy developer)
 
