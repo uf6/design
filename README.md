@@ -20,11 +20,14 @@ Developers need reusable components, data structures and practical advice on the
  - [iilab](https://iilab.org) / Open Oil Corporate Network Navigator [demo](https://openoil.iilab.org) - [source](https://github.com/iilab/openoil)
 
 ### Others to get on board
- - [Journalism++](http://www.jplusplus.org/en/) / Detective.io - [demo](http://www.detective.io) - [source](https://github.com/jplusplus/detective.io)
- - [Shidash](https://github.com/shidash) / Transparency Toolkit - [demo](http://transparencytoolkit.org/) - [source](https://github.com/TransparencyToolkit/Transparency-Toolkit)
- - [Atchai](http://www.atchai.com/) / Dataseed - [demo](https://getdataseed.com/visualise/mortality/1) - [documentation](https://getdataseed.com/documentation)
+ - [Journalism++](http://www.jplusplus.org/en/) / Detective.io - [demo](http://www.detective.io) - [source](https://github.com/jplusplus/detective.io) @jplusplus @n-kb 
+ - [Shidash](https://github.com/shidash) / Transparency Toolkit - [demo](http://transparencytoolkit.org/) - [source](https://github.com/TransparencyToolkit/Transparency-Toolkit) @shidash
+ - [Atchai](http://www.atchai.com/) / Dataseed - [demo](https://getdataseed.com/visualise/mortality/1) - [documentation](https://getdataseed.com/documentation) @atchai @johngriffin
+ - Open Corporates (https://opencorporates.com @sebbacon)
+ - Parltrak (@stef @tttp)
+ - @elf-pavlik
+ - Storyful (@storyful @paulmwatson)
  - MC
- - Open Corporates (https://opencorporates.com)
  - ... (Submit a Pull Request with your name)
 
 # Solutions
