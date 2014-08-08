@@ -24,7 +24,7 @@ Developers need reusable components, data structures and practical advice on the
  - [Shidash](https://github.com/shidash) / Transparency Toolkit - [demo](http://transparencytoolkit.org/) - [source](https://github.com/TransparencyToolkit/Transparency-Toolkit)
  - [Atchai](http://www.atchai.com/) / Dataseed - [demo](https://getdataseed.com/visualise/mortality/1) - [documentation](https://getdataseed.com/documentation)
  - MC
- - Open Corporates
+ - Open Corporates (https://opencorporates.com)
  - ... (Submit a Pull Request with your name)
 
 # Solutions
