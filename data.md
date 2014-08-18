@@ -9,14 +9,22 @@ Ideally there would be different levels of implementatin which would allow:
  - Core: the solid way to make data enriching predictable and repeatable
  - Extended: the cherry on top.
 
+### Quality
+
+ - [OpenRefine](http://openrefine.org/)
+ - Exversion's [Junky](https://github.com/exversion/junky)
+ - [Data Cleaning Boilerplate](https://github.com/exversion/data-cleaning-boilerplate)
+
 ### Provenance
- - Open Provenance (Ontology)
+ - [Open Provenance (Ontology)](http://openprovenance.org/model/opmx#example)
+
+![](http://openprovenance.org/model/dependencies.jpg)
+ 
  - ICFJ provenance
 
 ### Verification
 
 ### Reputation
-
 
 ### Organisations/Institutions
 
