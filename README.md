@@ -8,6 +8,7 @@ Uranium Hexafluoride - Used for enrichment
 
  - [User Experience Patterns](ux.md)
  - [Data structures & Interoperability](data.md)
+ - [Graph Stacks](stacks.md)
 
 # Problem
 
