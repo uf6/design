@@ -16,10 +16,12 @@ Ideally there would be different levels of implementatin which would allow:
  - [Data Cleaning Boilerplate](https://github.com/exversion/data-cleaning-boilerplate)
 
 ### Provenance
- - [Open Provenance (Ontology)](http://openprovenance.org/model/opmx#example)
+ - __Preferred:__ [Provenance Ontology](
 
-![](http://openprovenance.org/model/dependencies.jpg)
+
+![](http://www.w3.org/TR/2013/NOTE-prov-primer-20130430/images/key-concepts.png)
  
+ - __Deprecated:__ [Open Provenance (Ontology)](http://openprovenance.org/model/opmx#example)
  - ICFJ provenance
 
 ### Verification
@@ -28,14 +30,26 @@ Ideally there would be different levels of implementatin which would allow:
 
 ### Organisations/Institutions
 
+ * __Preferred:__ Organisations ([Organisation Ontology](http://www.w3.org/TR/vocab-org/))
+
+![](http://www.w3.org/TR/vocab-org/img/OrgOntology20130502.png) 
+ 
  * [Popolo for People/Organizations/Membership](http://popoloproject.com/)
+ * 
+ 
+### Organisation Types
+
+ * [Schema.org Organisation subclasses](http://schema.org/Organization)
  * [OpenSecrets Industries](https://www.opensecrets.org/industries/slist.php), based off [NAICS](http://www.census.gov/eos/www/naics/), related to [NACE (Europe)](http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-RA-07-015/EN/KS-RA-07-015-EN.PDF)
- - [equity/control/executives](http://www.omg.org/spec/EDMC-FIBO/BE/1.0/Beta1/), 
- - [contracts](http://www.omg.org/spec/EDMC-FIBO/FND/1.0/Beta1/), [public contracts](https://code.google.com/p/public-contracts-ontology/)
- - [company attributes/industry] (http://www.cs.umd.edu/projects/plus/SHOE/onts/org1.0.html)
+
+### Company Equity/Control 
+ 
+ * [equity/control/executives](http://www.omg.org/spec/EDMC-FIBO/BE/1.0/Beta1/), 
 
 ### Contracts
 
+ * [contracts](http://www.omg.org/spec/EDMC-FIBO/FND/1.0/Beta1/)
+ * [public contracts](https://code.google.com/p/public-contracts-ontology/)
  * [Open Contracting Data Standard](http://standard.open-contracting.org/)
  - Open Spending?
  * There's also a lot of financial taxonomies that might become relevant, check the [XBRL Taxonomies](http://www.xbrl.org/Taxonomies/), which are XML schema for things including standard SEC and UK accounting charts. 
