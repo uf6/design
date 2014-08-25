@@ -10,3 +10,4 @@ Store           | Open Source  |  Triples | Quads | Distributed | Install      |
 **Titan**     | Yes               | Yes     | Yes       |      Yes      | In progress | Porbably high | No               | No but Gremlin | No?             | Tinkerpop | Tinkerpop 
 **OrientDB**| Yes               | Yes     | ?          | Yes         | Easy... Sort of.. | Good on paper | No       |   No    |  Sort of?  |  Yes     |  [Lots](https://github.com/orientechnologies/orientdb/wiki/Programming-Language-Bindings)
 **Dydra**    | No                | Yes       |  Yes     |  No        | Easy        |  High       |  Of closed source | No   |  Seems like it  | Is there? |  [Ruby](http://docs.dydra.com/sdk/ruby)
+**Jena**    | Yes                | Yes       |  Yes     |  No        | Easy        |  High       |  No  | No   |  Yes  | Yes  |  SPARQL/HTTP
