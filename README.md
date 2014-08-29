@@ -18,6 +18,7 @@ Developers need reusable components, data structures and practical advice on the
 ## Problem solvers
  - [Pudo](http://granoproject.org/) / Grano [demo](http://beta.grano.cc/#/) - [source](https://github.com/granoproject)
  - [iilab](https://iilab.org) / Open Oil Corporate Network Navigator [demo](https://openoil.iilab.org) - [source](https://github.com/iilab/openoil)
+ - ... (Submit a Pull Request or send a message to uf6@iilab.org to be added)
 
 ### Others to get on board
  - [Journalism++](http://www.jplusplus.org/en/) / Detective.io - [demo](http://www.detective.io) - [source](https://github.com/jplusplus/detective.io) @jplusplus @n-kb 
