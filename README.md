@@ -8,6 +8,7 @@ Uranium Hexafluoride - Used for enrichment
 
  - [User Experience Patterns](ux.md)
  - [Data structures & Interoperability](data.md)
+ - [Graph Stacks](stacks.md)
 
 # Problem
 
@@ -23,7 +24,7 @@ Developers need reusable components, data structures and practical advice on the
 ### Others to get on board
  - [Journalism++](http://www.jplusplus.org/en/) / Detective.io - [demo](http://www.detective.io) - [source](https://github.com/jplusplus/detective.io) @jplusplus @n-kb 
  - [Shidash](https://github.com/shidash) / Transparency Toolkit - [demo](http://transparencytoolkit.org/) - [source](https://github.com/TransparencyToolkit/Transparency-Toolkit) @shidash
- - [Atchai](http://www.atchai.com/) / Dataseed - [demo](https://getdataseed.com/visualise/mortality/1) - [documentation](https://getdataseed.com/documentation) @atchai @johngriffin
+ - [Atchai](http://www.atchai.com/) / NewsVerify [demo](http://opennewsplatform.atchai.com/) - [documentation](https://github.com/atchai/newsverify/wiki) - [source](https://github.com/atchai/newsverify)  / Dataseed - [demo](https://getdataseed.com/visualise/mortality/1) - [documentation](https://getdataseed.com/documentation) @atchai @johngriffin
  - Open Corporates (https://opencorporates.com @sebbacon)
  - Parltrak (@stef @tttp)
  - @elf-pavlik
